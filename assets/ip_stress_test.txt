@@ -1,0 +1,2500 @@
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking localhost (be patient)
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 200 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 200 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 100 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 100 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 300 requests
+Completed 200 requests
+Completed 200 requests
+Completed 300 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 200 requests
+Completed 300 requests
+Completed 300 requests
+Completed 200 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 200 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 400 requests
+Completed 300 requests
+Completed 400 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 400 requests
+Completed 300 requests
+Completed 300 requests
+Completed 300 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 300 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 500 requests
+Finished 500 requests
+Completed 400 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.1
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.302 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    217.16 [#/sec] (mean)
+Time per request:       115.120 [ms] (mean)
+Time per request:       4.605 [ms] (mean, across all concurrent requests)
+Transfer rate:          38.79 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       1
+Processing:     1  111  83.2     98     428
+Waiting:        1  111  83.2     98     427
+Total:          1  111  83.2     98     428
+
+Percentage of the requests served within a certain time (ms)
+  50%     98
+  66%    142
+  75%    160
+  80%    180
+  90%    223
+  95%    263
+  98%    327
+  99%    366
+ 100%    428 (longest request)
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 400 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.11
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.445 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    204.51 [#/sec] (mean)
+Time per request:       122.243 [ms] (mean)
+Time per request:       4.890 [ms] (mean, across all concurrent requests)
+Transfer rate:          36.53 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  115  72.0    108     369
+Waiting:        1  115  72.0    108     369
+Total:          1  115  72.0    108     369
+
+Percentage of the requests served within a certain time (ms)
+  50%    108
+  66%    141
+  75%    164
+  80%    172
+  90%    211
+  95%    248
+  98%    290
+  99%    317
+ 100%    369 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.7
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.509 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    199.26 [#/sec] (mean)
+Time per request:       125.465 [ms] (mean)
+Time per request:       5.019 [ms] (mean, across all concurrent requests)
+Transfer rate:          35.59 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  119  79.5    107     491
+Waiting:        1  118  79.6    107     491
+Total:          1  119  79.5    107     491
+
+Percentage of the requests served within a certain time (ms)
+  50%    107
+  66%    136
+  75%    155
+  80%    177
+  90%    233
+  95%    270
+  98%    308
+  99%    373
+ 100%    491 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.9
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.510 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    199.22 [#/sec] (mean)
+Time per request:       125.489 [ms] (mean)
+Time per request:       5.020 [ms] (mean, across all concurrent requests)
+Transfer rate:          35.58 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  120  81.2    105     403
+Waiting:        1  119  81.2    105     403
+Total:          1  120  81.2    105     403
+
+Percentage of the requests served within a certain time (ms)
+  50%    105
+  66%    147
+  75%    167
+  80%    186
+  90%    238
+  95%    279
+  98%    321
+  99%    352
+ 100%    403 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.5
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.513 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    198.94 [#/sec] (mean)
+Time per request:       125.666 [ms] (mean)
+Time per request:       5.027 [ms] (mean, across all concurrent requests)
+Transfer rate:          35.53 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  119  81.3    105     521
+Waiting:        1  119  81.3    105     521
+Total:          1  119  81.3    105     521
+
+Percentage of the requests served within a certain time (ms)
+  50%    105
+  66%    142
+  75%    162
+  80%    182
+  90%    226
+  95%    276
+  98%    331
+  99%    361
+ 100%    521 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.3
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.548 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    196.25 [#/sec] (mean)
+Time per request:       127.386 [ms] (mean)
+Time per request:       5.095 [ms] (mean, across all concurrent requests)
+Transfer rate:          35.05 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.4      0       2
+Processing:     1  115  81.3    102     467
+Waiting:        1  115  81.3    102     467
+Total:          1  115  81.2    102     467
+
+Percentage of the requests served within a certain time (ms)
+  50%    102
+  66%    142
+  75%    160
+  80%    180
+  90%    229
+  95%    270
+  98%    316
+  99%    329
+ 100%    467 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.2
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.548 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    196.25 [#/sec] (mean)
+Time per request:       127.391 [ms] (mean)
+Time per request:       5.096 [ms] (mean, across all concurrent requests)
+Transfer rate:          35.05 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.3      0       3
+Processing:     1  121  74.1    112     361
+Waiting:        1  121  74.1    112     361
+Total:          1  122  74.0    112     361
+
+Percentage of the requests served within a certain time (ms)
+  50%    112
+  66%    143
+  75%    162
+  80%    180
+  90%    224
+  95%    265
+  98%    301
+  99%    325
+ 100%    361 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.12
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.534 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    197.28 [#/sec] (mean)
+Time per request:       126.724 [ms] (mean)
+Time per request:       5.069 [ms] (mean, across all concurrent requests)
+Transfer rate:          35.24 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       2
+Processing:     1  121  77.1    111     545
+Waiting:        1  120  77.1    111     545
+Total:          1  121  77.0    111     545
+
+Percentage of the requests served within a certain time (ms)
+  50%    111
+  66%    143
+  75%    171
+  80%    183
+  90%    226
+  95%    253
+  98%    304
+  99%    341
+ 100%    545 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.10
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.567 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    194.77 [#/sec] (mean)
+Time per request:       128.354 [ms] (mean)
+Time per request:       5.134 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.79 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  122  80.3    111     385
+Waiting:        1  121  80.4    111     385
+Total:          1  122  80.3    111     385
+
+Percentage of the requests served within a certain time (ms)
+  50%    111
+  66%    142
+  75%    166
+  80%    183
+  90%    234
+  95%    286
+  98%    324
+  99%    366
+ 100%    385 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.6
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.582 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    193.61 [#/sec] (mean)
+Time per request:       129.124 [ms] (mean)
+Time per request:       5.165 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.58 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.3      0       3
+Processing:     1  119  76.0    111     375
+Waiting:        1  119  76.0    110     375
+Total:          1  119  75.9    111     375
+
+Percentage of the requests served within a certain time (ms)
+  50%    111
+  66%    141
+  75%    160
+  80%    176
+  90%    229
+  95%    261
+  98%    318
+  99%    346
+ 100%    375 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.13
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.584 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    193.48 [#/sec] (mean)
+Time per request:       129.210 [ms] (mean)
+Time per request:       5.168 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.56 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  122  77.9    112     357
+Waiting:        1  122  77.9    112     357
+Total:          1  122  77.9    112     357
+
+Percentage of the requests served within a certain time (ms)
+  50%    112
+  66%    143
+  75%    169
+  80%    183
+  90%    238
+  95%    270
+  98%    317
+  99%    328
+ 100%    357 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.15
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.620 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    190.83 [#/sec] (mean)
+Time per request:       131.004 [ms] (mean)
+Time per request:       5.240 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.09 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  123  76.1    113     386
+Waiting:        1  123  76.1    113     386
+Total:          1  123  76.0    113     386
+
+Percentage of the requests served within a certain time (ms)
+  50%    113
+  66%    145
+  75%    168
+  80%    182
+  90%    234
+  95%    271
+  98%    315
+  99%    329
+ 100%    386 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.20
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.640 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    189.40 [#/sec] (mean)
+Time per request:       131.992 [ms] (mean)
+Time per request:       5.280 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.83 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  126  75.0    119     412
+Waiting:        1  126  75.1    119     412
+Total:          1  126  75.0    119     412
+
+Percentage of the requests served within a certain time (ms)
+  50%    119
+  66%    146
+  75%    170
+  80%    191
+  90%    231
+  95%    263
+  98%    300
+  99%    320
+ 100%    412 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.19
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.646 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.94 [#/sec] (mean)
+Time per request:       132.314 [ms] (mean)
+Time per request:       5.293 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.75 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  125  78.2    117     407
+Waiting:        1  125  78.2    117     407
+Total:          1  125  78.2    117     407
+
+Percentage of the requests served within a certain time (ms)
+  50%    117
+  66%    144
+  75%    165
+  80%    180
+  90%    228
+  95%    286
+  98%    321
+  99%    355
+ 100%    407 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.26
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.618 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    191.02 [#/sec] (mean)
+Time per request:       130.879 [ms] (mean)
+Time per request:       5.235 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.12 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  122  82.1    112     564
+Waiting:        1  122  82.1    112     564
+Total:          1  122  82.1    112     565
+
+Percentage of the requests served within a certain time (ms)
+  50%    112
+  66%    148
+  75%    169
+  80%    182
+  90%    232
+  95%    264
+  98%    319
+  99%    389
+ 100%    565 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.4
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.679 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    186.65 [#/sec] (mean)
+Time per request:       133.942 [ms] (mean)
+Time per request:       5.358 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.34 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  123  81.9    108     417
+Waiting:        1  123  82.0    108     417
+Total:          1  123  81.9    108     417
+
+Percentage of the requests served within a certain time (ms)
+  50%    108
+  66%    149
+  75%    172
+  80%    190
+  90%    230
+  95%    279
+  98%    349
+  99%    368
+ 100%    417 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.25
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.639 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    189.49 [#/sec] (mean)
+Time per request:       131.931 [ms] (mean)
+Time per request:       5.277 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.85 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       2
+Processing:     1  125  78.6    113     421
+Waiting:        1  125  78.6    113     421
+Total:          1  125  78.6    113     421
+
+Percentage of the requests served within a certain time (ms)
+  50%    113
+  66%    149
+  75%    171
+  80%    184
+  90%    238
+  95%    271
+  98%    325
+  99%    376
+ 100%    421 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.21
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.648 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.83 [#/sec] (mean)
+Time per request:       132.397 [ms] (mean)
+Time per request:       5.296 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.73 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  125  74.0    113     579
+Waiting:        1  125  74.0    113     579
+Total:          1  125  74.0    113     579
+
+Percentage of the requests served within a certain time (ms)
+  50%    113
+  66%    147
+  75%    175
+  80%    186
+  90%    225
+  95%    254
+  98%    285
+  99%    331
+ 100%    579 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.24
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.645 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    189.01 [#/sec] (mean)
+Time per request:       132.268 [ms] (mean)
+Time per request:       5.291 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.76 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  121  75.4    111     418
+Waiting:        1  121  75.5    111     418
+Total:          1  121  75.4    111     418
+
+Percentage of the requests served within a certain time (ms)
+  50%    111
+  66%    143
+  75%    169
+  80%    184
+  90%    226
+  95%    258
+  98%    315
+  99%    330
+ 100%    418 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.34
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.603 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    192.10 [#/sec] (mean)
+Time per request:       130.139 [ms] (mean)
+Time per request:       5.206 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.31 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  121  75.5    116     395
+Waiting:        1  121  75.6    116     395
+Total:          1  121  75.6    116     395
+
+Percentage of the requests served within a certain time (ms)
+  50%    116
+  66%    149
+  75%    166
+  80%    178
+  90%    222
+  95%    258
+  98%    298
+  99%    345
+ 100%    395 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.16
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.671 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    187.21 [#/sec] (mean)
+Time per request:       133.537 [ms] (mean)
+Time per request:       5.341 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.44 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       2
+Processing:     1  123  75.2    114     343
+Waiting:        1  123  75.2    114     343
+Total:          1  123  75.1    114     343
+
+Percentage of the requests served within a certain time (ms)
+  50%    114
+  66%    147
+  75%    171
+  80%    187
+  90%    233
+  95%    267
+  98%    297
+  99%    308
+ 100%    343 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.8
+Document Length:        65 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.689 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91450 bytes
+HTML transferred:       9235 bytes
+Requests per second:    185.93 [#/sec] (mean)
+Time per request:       134.457 [ms] (mean)
+Time per request:       5.378 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.21 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       1
+Processing:     1  128  77.5    122     408
+Waiting:        1  128  77.5    122     408
+Total:          1  128  77.5    122     408
+
+Percentage of the requests served within a certain time (ms)
+  50%    122
+  66%    154
+  75%    174
+  80%    192
+  90%    237
+  95%    268
+  98%    294
+  99%    360
+ 100%    408 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.22
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.657 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.15 [#/sec] (mean)
+Time per request:       132.873 [ms] (mean)
+Time per request:       5.315 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.61 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  122  73.2    116     439
+Waiting:        1  122  73.2    116     439
+Total:          1  123  73.1    116     439
+
+Percentage of the requests served within a certain time (ms)
+  50%    116
+  66%    144
+  75%    165
+  80%    182
+  90%    224
+  95%    257
+  98%    296
+  99%    327
+ 100%    439 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.23
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.651 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.64 [#/sec] (mean)
+Time per request:       132.531 [ms] (mean)
+Time per request:       5.301 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.69 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  123  78.1    114     388
+Waiting:        1  123  78.1    114     388
+Total:          1  123  78.1    114     388
+
+Percentage of the requests served within a certain time (ms)
+  50%    114
+  66%    149
+  75%    171
+  80%    184
+  90%    233
+  95%    270
+  98%    308
+  99%    331
+ 100%    388 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.46
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.571 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    194.50 [#/sec] (mean)
+Time per request:       128.536 [ms] (mean)
+Time per request:       5.141 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.74 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  122  71.2    117     319
+Waiting:        1  122  71.2    117     319
+Total:          1  122  71.2    117     319
+
+Percentage of the requests served within a certain time (ms)
+  50%    117
+  66%    141
+  75%    162
+  80%    185
+  90%    219
+  95%    253
+  98%    292
+  99%    313
+ 100%    319 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.18
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.681 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    186.52 [#/sec] (mean)
+Time per request:       134.031 [ms] (mean)
+Time per request:       5.361 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.32 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  128  78.1    115     448
+Waiting:        1  128  78.2    115     448
+Total:          1  128  78.1    115     448
+
+Percentage of the requests served within a certain time (ms)
+  50%    115
+  66%    152
+  75%    174
+  80%    188
+  90%    228
+  95%    265
+  98%    312
+  99%    391
+ 100%    448 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.40
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.601 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    192.26 [#/sec] (mean)
+Time per request:       130.031 [ms] (mean)
+Time per request:       5.201 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.34 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       3
+Processing:     1  123  82.4    111     446
+Waiting:        1  123  82.4    111     446
+Total:          1  123  82.4    111     446
+
+Percentage of the requests served within a certain time (ms)
+  50%    111
+  66%    147
+  75%    168
+  80%    187
+  90%    242
+  95%    291
+  98%    329
+  99%    361
+ 100%    446 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.17
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.685 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    186.22 [#/sec] (mean)
+Time per request:       134.250 [ms] (mean)
+Time per request:       5.370 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.26 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       2
+Processing:     1  126  75.7    115     424
+Waiting:        1  126  75.7    115     424
+Total:          1  126  75.7    115     424
+
+Percentage of the requests served within a certain time (ms)
+  50%    115
+  66%    150
+  75%    173
+  80%    188
+  90%    222
+  95%    262
+  98%    308
+  99%    338
+ 100%    424 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.42
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.587 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    193.25 [#/sec] (mean)
+Time per request:       129.368 [ms] (mean)
+Time per request:       5.175 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.52 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  123  76.3    113     409
+Waiting:        1  123  76.3    113     409
+Total:          1  123  76.3    113     409
+
+Percentage of the requests served within a certain time (ms)
+  50%    113
+  66%    143
+  75%    169
+  80%    187
+  90%    228
+  95%    268
+  98%    301
+  99%    332
+ 100%    409 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.28
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.642 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    189.26 [#/sec] (mean)
+Time per request:       132.093 [ms] (mean)
+Time per request:       5.284 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.81 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  125  79.4    118     533
+Waiting:        1  125  79.4    118     533
+Total:          1  126  79.4    118     533
+
+Percentage of the requests served within a certain time (ms)
+  50%    118
+  66%    150
+  75%    170
+  80%    184
+  90%    231
+  95%    277
+  98%    312
+  99%    347
+ 100%    533 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.41
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.604 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    192.01 [#/sec] (mean)
+Time per request:       130.199 [ms] (mean)
+Time per request:       5.208 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.30 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       2
+Processing:     1  121  75.0    116     470
+Waiting:        1  121  75.0    116     470
+Total:          1  122  75.0    116     470
+
+Percentage of the requests served within a certain time (ms)
+  50%    116
+  66%    146
+  75%    171
+  80%    184
+  90%    225
+  95%    249
+  98%    285
+  99%    320
+ 100%    470 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.48
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.576 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    194.08 [#/sec] (mean)
+Time per request:       128.814 [ms] (mean)
+Time per request:       5.153 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.67 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  122  77.2    114     402
+Waiting:        1  122  77.1    114     402
+Total:          1  122  77.1    114     402
+
+Percentage of the requests served within a certain time (ms)
+  50%    114
+  66%    147
+  75%    168
+  80%    184
+  90%    227
+  95%    270
+  98%    294
+  99%    361
+ 100%    402 (longest request)
+Completed 500 requests
+Completed 500 requests
+Finished 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.27
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.655 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.32 [#/sec] (mean)
+Time per request:       132.750 [ms] (mean)
+Time per request:       5.310 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.64 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  124  78.4    114     484
+Waiting:        1  124  78.4    114     484
+Total:          1  124  78.4    114     485
+
+Percentage of the requests served within a certain time (ms)
+  50%    114
+  66%    147
+  75%    168
+  80%    185
+  90%    234
+  95%    277
+  98%    307
+  99%    341
+ 100%    485 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.44
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.605 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    191.93 [#/sec] (mean)
+Time per request:       130.256 [ms] (mean)
+Time per request:       5.210 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.28 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       2
+Processing:     1  125  76.2    117     436
+Waiting:        1  125  76.2    117     436
+Total:          1  125  76.2    117     436
+
+Percentage of the requests served within a certain time (ms)
+  50%    117
+  66%    143
+  75%    173
+  80%    183
+  90%    228
+  95%    269
+  98%    320
+  99%    359
+ 100%    436 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.29
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.655 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.34 [#/sec] (mean)
+Time per request:       132.741 [ms] (mean)
+Time per request:       5.310 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.64 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       1
+Processing:     1  126  73.3    114     450
+Waiting:        1  125  73.3    114     450
+Total:          1  126  73.3    114     450
+
+Percentage of the requests served within a certain time (ms)
+  50%    114
+  66%    148
+  75%    172
+  80%    185
+  90%    224
+  95%    266
+  98%    295
+  99%    327
+ 100%    450 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.47
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.600 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    192.33 [#/sec] (mean)
+Time per request:       129.984 [ms] (mean)
+Time per request:       5.199 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.35 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  124  82.9    114     451
+Waiting:        1  124  82.9    114     447
+Total:          1  124  82.9    114     451
+
+Percentage of the requests served within a certain time (ms)
+  50%    114
+  66%    148
+  75%    169
+  80%    184
+  90%    244
+  95%    286
+  98%    335
+  99%    364
+ 100%    451 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.39
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.625 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    190.45 [#/sec] (mean)
+Time per request:       131.267 [ms] (mean)
+Time per request:       5.251 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.02 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  124  78.1    116     408
+Waiting:        1  124  78.1    116     408
+Total:          1  124  78.1    116     408
+
+Percentage of the requests served within a certain time (ms)
+  50%    116
+  66%    145
+  75%    163
+  80%    183
+  90%    233
+  95%    270
+  98%    335
+  99%    357
+ 100%    408 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.30
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.657 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.19 [#/sec] (mean)
+Time per request:       132.846 [ms] (mean)
+Time per request:       5.314 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.61 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  126  76.7    118     401
+Waiting:        1  126  76.7    118     401
+Total:          1  126  76.7    118     401
+
+Percentage of the requests served within a certain time (ms)
+  50%    118
+  66%    147
+  75%    172
+  80%    187
+  90%    240
+  95%    272
+  98%    307
+  99%    341
+ 100%    401 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.31
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.652 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.52 [#/sec] (mean)
+Time per request:       132.612 [ms] (mean)
+Time per request:       5.304 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.67 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.3      0       2
+Processing:     1  124  80.0    117     512
+Waiting:        1  124  80.0    117     512
+Total:          1  125  80.0    117     512
+
+Percentage of the requests served within a certain time (ms)
+  50%    117
+  66%    145
+  75%    170
+  80%    185
+  90%    231
+  95%    262
+  98%    335
+  99%    429
+ 100%    512 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.43
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.618 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    190.99 [#/sec] (mean)
+Time per request:       130.898 [ms] (mean)
+Time per request:       5.236 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.12 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  124  77.7    117     421
+Waiting:        1  124  77.7    117     421
+Total:          1  124  77.7    117     421
+
+Percentage of the requests served within a certain time (ms)
+  50%    117
+  66%    151
+  75%    172
+  80%    191
+  90%    233
+  95%    264
+  98%    309
+  99%    338
+ 100%    421 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.45
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.610 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    191.60 [#/sec] (mean)
+Time per request:       130.479 [ms] (mean)
+Time per request:       5.219 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.22 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  125  75.5    114     457
+Waiting:        1  125  75.5    114     457
+Total:          1  125  75.5    114     457
+
+Percentage of the requests served within a certain time (ms)
+  50%    114
+  66%    151
+  75%    167
+  80%    185
+  90%    234
+  95%    272
+  98%    299
+  99%    325
+ 100%    457 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.14
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.717 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    184.04 [#/sec] (mean)
+Time per request:       135.840 [ms] (mean)
+Time per request:       5.434 [ms] (mean, across all concurrent requests)
+Transfer rate:          32.87 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  127  74.7    118     421
+Waiting:        1  127  74.7    117     421
+Total:          1  127  74.7    118     421
+
+Percentage of the requests served within a certain time (ms)
+  50%    118
+  66%    150
+  75%    173
+  80%    189
+  90%    225
+  95%    265
+  98%    316
+  99%    341
+ 100%    421 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Completed 500 requests
+Finished 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.33
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.657 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.16 [#/sec] (mean)
+Time per request:       132.863 [ms] (mean)
+Time per request:       5.315 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.61 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  123  78.5    117     371
+Waiting:        1  123  78.5    117     371
+Total:          1  123  78.5    117     371
+
+Percentage of the requests served within a certain time (ms)
+  50%    117
+  66%    145
+  75%    168
+  80%    184
+  90%    240
+  95%    270
+  98%    314
+  99%    328
+ 100%    371 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.49
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.598 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    192.45 [#/sec] (mean)
+Time per request:       129.902 [ms] (mean)
+Time per request:       5.196 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.38 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.2      0       1
+Processing:     1  124  73.1    115     422
+Waiting:        1  124  73.1    115     422
+Total:          1  125  73.1    115     422
+
+Percentage of the requests served within a certain time (ms)
+  50%    115
+  66%    146
+  75%    167
+  80%    180
+  90%    218
+  95%    263
+  98%    311
+  99%    350
+ 100%    422 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.38
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.639 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    189.45 [#/sec] (mean)
+Time per request:       131.960 [ms] (mean)
+Time per request:       5.278 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.84 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  127  79.1    116     468
+Waiting:        1  127  79.1    116     468
+Total:          1  127  79.1    116     469
+
+Percentage of the requests served within a certain time (ms)
+  50%    116
+  66%    148
+  75%    171
+  80%    190
+  90%    242
+  95%    266
+  98%    302
+  99%    341
+ 100%    469 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.32
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.661 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    187.90 [#/sec] (mean)
+Time per request:       133.047 [ms] (mean)
+Time per request:       5.322 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.56 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  126  76.9    116     460
+Waiting:        1  125  76.9    116     460
+Total:          1  126  76.9    116     460
+
+Percentage of the requests served within a certain time (ms)
+  50%    116
+  66%    148
+  75%    173
+  80%    195
+  90%    232
+  95%    261
+  98%    300
+  99%    328
+ 100%    460 (longest request)
+Completed 500 requests
+Finished 500 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.35
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.653 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.45 [#/sec] (mean)
+Time per request:       132.658 [ms] (mean)
+Time per request:       5.306 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.66 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  123  83.9    110     446
+Waiting:        1  123  83.8    110     446
+Total:          1  124  83.9    110     446
+
+Percentage of the requests served within a certain time (ms)
+  50%    110
+  66%    142
+  75%    166
+  80%    182
+  90%    244
+  95%    291
+  98%    363
+  99%    393
+ 100%    446 (longest request)
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.37
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.645 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    189.07 [#/sec] (mean)
+Time per request:       132.227 [ms] (mean)
+Time per request:       5.289 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.77 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  124  78.0    115     432
+Waiting:        1  124  78.0    115     432
+Total:          1  124  78.0    115     432
+
+Percentage of the requests served within a certain time (ms)
+  50%    115
+  66%    148
+  75%    171
+  80%    181
+  90%    230
+  95%    265
+  98%    304
+  99%    371
+ 100%    432 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.36
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.648 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    188.81 [#/sec] (mean)
+Time per request:       132.411 [ms] (mean)
+Time per request:       5.296 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.73 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     1  126  76.4    117     356
+Waiting:        1  126  76.4    116     356
+Total:          1  126  76.4    117     356
+
+Percentage of the requests served within a certain time (ms)
+  50%    117
+  66%    148
+  75%    172
+  80%    187
+  90%    230
+  95%    262
+  98%    328
+  99%    342
+ 100%    356 (longest request)
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        
+Server Hostname:        localhost
+Server Port:            8080
+
+Document Path:          /ip?ip=192.168.1.50
+Document Length:        66 bytes
+
+Concurrency Level:      25
+Time taken for tests:   2.608 seconds
+Complete requests:      500
+Failed requests:        495
+   (Connect: 0, Receive: 0, Length: 495, Exceptions: 0)
+Non-2xx responses:      495
+Total transferred:      91455 bytes
+HTML transferred:       9240 bytes
+Requests per second:    191.69 [#/sec] (mean)
+Time per request:       130.420 [ms] (mean)
+Time per request:       5.217 [ms] (mean, across all concurrent requests)
+Transfer rate:          34.24 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       2
+Processing:     1  118  76.9    113     435
+Waiting:        1  118  76.9    113     435
+Total:          1  118  76.9    113     435
+
+Percentage of the requests served within a certain time (ms)
+  50%    113
+  66%    141
+  75%    159
+  80%    176
+  90%    222
+  95%    258
+  98%    319
+  99%    362
+ 100%    435 (longest request)

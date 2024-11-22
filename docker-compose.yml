@@ -1,0 +1,86 @@
+---
+services:
+  redis:
+    container_name: redis
+    image: redis:alpine
+    ports: [6379:6379]
+    networks: [app_network]
+    healthcheck:
+      test: [CMD, sh, -c, redis-cli -h 127.0.0.1 ping || exit 1]
+      interval: 3s
+      timeout: 2s
+      retries: 3
+  app:
+    container_name: rate-limiter
+    hostname: rate-limiter
+    build:
+      context: .
+      target: app
+    ports: [8080:8080]
+    depends_on:
+      redis:
+        condition: service_healthy
+    networks: [app_network]
+    env_file: [.env]
+    healthcheck:
+      test: [CMD, sh, -c, curl -s http://localhost:8080/health || exit 1]
+      interval: 3s
+      timeout: 2s
+      retries: 3
+  tests-unit:
+    container_name: unit-tests
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    command: |
+      sh -c "mkdir -p /app/test_results && \
+             go test ./internal/app/... -v | tee /app/test_results/unit_test_results.txt || \
+             (cat /app/test_results/unit_test_results.txt && exit 1)"
+    networks: [app_network]
+    env_file: [.env]
+  tests-integration:
+    container_name: integration-tests
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    command: |
+      sh -c "mkdir -p /app/test_results && \
+             REDIS_ADDR=redis:6379 go test ./internal/tests/integration/... -v | tee /app/test_results/integration_test_results.txt || \
+             (cat /app/test_results/integration_test_results.txt && exit 1)"
+    depends_on:
+      redis:
+        condition: service_healthy
+    networks: [app_network]
+    env_file: [.env]
+  redis-e2e:
+    container_name: redis-e2e-tests
+    build:
+      context: .
+      target: app
+    entrypoint: [/app/e2e.test, -test.v]
+    depends_on:
+      redis:
+        condition: service_healthy
+      app:
+        condition: service_healthy
+    networks: [app_network]
+    environment:
+      REDIS_ADDR: redis:6379
+  redis-tui:
+    container_name: redis-tui
+    build:
+      context: .
+      target: tui
+    stdin_open: true
+    tty: true
+    depends_on:
+      redis:
+        condition: service_healthy
+    networks: [app_network]
+    environment:
+      REDIS_ADDR: redis:6379
+      REDIS_PASSWORD: ''
+networks:
+  app_network:
